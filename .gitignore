@@ -1,0 +1,11 @@
+# Archivos de compilación de Dev-C++
+*.exe
+*.o
+*.layout
+*.win
+Makefile.win
+# Archivos temporales de objetos
+*.o
+# Carpeta de salida si existe
+/bin/
+/obj/
