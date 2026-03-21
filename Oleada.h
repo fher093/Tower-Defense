@@ -103,7 +103,7 @@ public:
             nodo = nodo->siguiente;
         } while (nodo != primero);
     }
- o
+ 
     //  Avanzar a la siguienteleada (aprovecha la circularidad)
     NodoOleada* avanzarSiguienteOleada() {
         if (actual == nullptr) return nullptr;
